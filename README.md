@@ -1,6 +1,9 @@
+# Road Network Inference
+Please read the pdf
+
 Dont forget to extract the datasets before running the default code.
 
-# ML_DT
+## ML_DT
 Transportation network data collection project
 
 NYC netwrok data is shared on Box (it is more than 25 MB). Look at the .DBF file and TOT_LANE for the number of lanes on each street. You can also map the file using the .shp file. https://cornell.box.com/s/novnxiavtl9pmth4p260p8x8s155limd
