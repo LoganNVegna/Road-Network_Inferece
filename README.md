@@ -1,7 +1,6 @@
 # Road Network Inference
 Please read the pdf
 
-Dont forget to extract the datasets before running the default code.
 
 ## ML_DT
 Transportation network data collection project
@@ -53,6 +52,8 @@ Salt Lake City (Test Set)<br>
 5. In the future, use lane width output of ScRoadExtractor as training data to train a model that predict both number of lanes and width
 
 ## Processing pipeline
+Dont forget to extract the datasets before running the default code.
+
 1. Use OSM to extract lane location 
 2. For each city select 100 random points from the lane location and use Google Static Map to extract satellite image
 3. Preprocess the data
